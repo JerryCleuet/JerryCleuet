@@ -19,7 +19,7 @@ J'ai pu expérimenter de nombreux domaines et avoir diverses expériences au fil
 
 ---
 
-## 📊 Statistiques GitHub
+## 📊 Statistiques GitHub (Projets publics)
 
 ![Stats GitHub](https://github-readme-stats.vercel.app/api?username=JerryCleuet&show_icons=true&theme=tokyonight)
 
