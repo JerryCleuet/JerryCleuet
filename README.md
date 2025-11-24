@@ -1,4 +1,4 @@
-# 👋 Hello, moi c’est **Jerry Cleuet**
+# 👋 Hello, moi c’est **Jerry**
 
 ### 🚀 Apprenti en développement d'applications
 Je travaille à l'Ecole des Métiers de Lausanne, j'ai chaque jour l'occasion d'utiliser différents outils informatiques.
