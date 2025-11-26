@@ -38,7 +38,7 @@ J'ai pu expérimenter de nombreux domaines et avoir diverses expériences au fil
 ## 📫 Me contacter
 
 - **Email :** jerry.cleuet@eduvaud.ch
-- **LinkedIn :** [https://linkedin.com/in/tonprofil  ](https://www.linkedin.com/in/jerry-cleuet-11321a330/)
+- **LinkedIn :** [[https://linkedin.com/in/tonprofil  ](https://www.linkedin.com/in/jerry-cleuet-11321a330/](https://www.linkedin.com/in/jerry-cleuet-11321a330/))
 
 ---
 
