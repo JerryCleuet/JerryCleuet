@@ -19,19 +19,11 @@ J'ai pu expérimenter de nombreux domaines et avoir diverses expériences au fil
 
 ---
 
-## 📊 Statistiques GitHub (Projets publics)
-
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=JerryCleuet&show_icons=true&theme=tokyonight)
-
-![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=JerryCleuet&layout=compact&theme=tokyonight)
-
----
-
 ## 🌱 Actuellement en train d’apprendre
 
-- Programmation de systèmes distribués
-- Environnement de test 
-- Cloud  
+- Game Dev avec Godot
+- Proxmox, Ansible & Terraform
+- Data & Cyber
 
 ---
 
@@ -45,7 +37,7 @@ J'ai pu expérimenter de nombreux domaines et avoir diverses expériences au fil
 ## 🧩 Fun Facts
 
 - 💪 J’aime le sport et la musculation  
-- 🌍 Voyageur passionné  
+- 🌍 Voyageur passionné 🇯🇵
 - 🎮 Fan de jeux vidéo & anime  
 
 ---
